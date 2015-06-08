@@ -1,6 +1,6 @@
 # Site settings
 title: Tuteja Lab
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-url: "http://tuteja-lab.github.io"
+url: "www.tuteja-lab.org"
 # Build settings
 markdown: kramdown
